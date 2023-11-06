@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\ProjectPractice.Domain.deps.json
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\ProjectPractice.Domain.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\ProjectPractice.Domain.pdb
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\refint\ProjectPractice.Domain.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.pdb
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ref\ProjectPractice.Domain.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\ProjectPractice.Domain.runtimeconfig.json
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.genruntimeconfig.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\EFCommonCRUD.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\bin\Debug\net7.0\EFCommonCRUD.pdb
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\ProjectPractice.Domain\obj\Debug\net7.0\ProjectPractice.Domain.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.AssemblyInfo.cs
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\bin\Debug\net7.0\EFCommonCRUD.deps.json
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\bin\Debug\net7.0\EFCommonCRUD.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\bin\Debug\net7.0\EFCommonCRUD.pdb
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\refint\EFCommonCRUD.dll
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\EFCommonCRUD.pdb
+C:\Users\DELL\Desktop\proyect.net\ProjectPractice\EFCommonCRUD\obj\Debug\net7.0\ref\EFCommonCRUD.dll
