@@ -59,5 +59,13 @@ namespace ProjectPractice.Domain.Enums
         /// Thrown if unauthorized user.
         /// </summary>
         Unauthorized,
+        /// <summary>
+        /// Thrown if is empty
+        /// </summary>
+        ReuieredBrandName,
+        /// <summary>
+        /// Thrown if the field is empty
+        /// </summary>
+        FieldIsRequiered,
     }
 }

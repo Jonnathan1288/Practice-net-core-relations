@@ -11,5 +11,9 @@ namespace ProjectPractice.Domain.Interfaces.Services.Public
     {
         public Task<IEnumerable<Brand>> FindAllAsync();
         public Task<Brand> SaveAsync(Brand b);
+        public Task<List<Brand>> SaveAllTransactional(List<Brand> brands);
+        public bool ExistBrandName(string brand_name);
+
+        public Task<List<Brand>> SaveAllAsync(List<Brand> brands);
     }
 }

@@ -11,5 +11,8 @@ namespace ProjectPractice.Domain.Interfaces.Services.Public
     {
         public Task<IEnumerable<VehiclesType>> FindAllAsync();
         public Task<VehiclesType> SaveAsync(VehiclesType v);
+
+        public VehiclesType Save(VehiclesType v);
+        public VehiclesType FindByNameTypeVehicle(string name);
     }
 }

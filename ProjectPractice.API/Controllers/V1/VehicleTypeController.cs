@@ -11,7 +11,7 @@ namespace ProjectPractice.API.Controllers.V1
     public class VehicleTypeController : ControllerBase
     {
         private readonly ITypeVehicleService _service;
-        public VehicleTypeController(ITypeVehicleService service) 
+        public VehicleTypeController(ITypeVehicleService service)
         {
             _service = service;
         }
@@ -23,5 +23,14 @@ namespace ProjectPractice.API.Controllers.V1
         [HttpPost]
         [Route("save-async")]
         public async Task<ActionResult> saveAsync([FromBody] VehiclesType v) => Ok(ResponseHandler.Ok(await _service.SaveAsync(v)));
+
+        [HttpPost]
+        [Route("save")]
+        public ActionResult Save([FromBody] VehiclesType t) => Ok(ResponseHandler.Ok(_service.Save(t)));
+
+        [HttpGet]
+        [Route("find-by-name/{name}")]
+        public ActionResult FindByNameTypeVehicle(string name) => Ok(ResponseHandler.Ok(_service.FindByNameTypeVehicle(name)));
+
     }
 }

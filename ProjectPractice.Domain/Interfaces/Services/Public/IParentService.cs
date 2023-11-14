@@ -10,5 +10,7 @@ namespace ProjectPractice.Domain.Interfaces.Services.Public
         public Task<IEnumerable<Parent>> FindAllAsync();
         public Task<Parent> FindByOne(int id);
         public Task<IPage<Parent>> FindAllPageableAsync(IPageable pageable);
+
+        public Task<List<Parent>> SaveAsyncTran(List<Parent> p);
     }
 }

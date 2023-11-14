@@ -36,6 +36,12 @@ namespace ProjectPractice.API.Controllers.V1
         public async Task<ActionResult> findAllPageableAsync([FromQuery] int? page, [FromQuery] int? size) {
             return Ok(ResponseHandler.Ok(await _service.FindAllPageableAsync(PageRequest.Of((page ?? 1) - 1, size ?? 2))));
         }
+
+        [HttpPost]
+        [Route("save-all-tran")]
+        public async Task<ActionResult> SaveTransactional([FromBody] List<Parent> p) {
+            return Ok(ResponseHandler.Ok(await _service.SaveAsyncTran(p)));
+        }
         
     }
 }

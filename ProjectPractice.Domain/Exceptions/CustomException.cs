@@ -30,6 +30,8 @@ namespace ProjectPractice.Domain.Exceptions
                     ExceptionEnum.NotFound => "not-results-found",
                     ExceptionEnum.OperationNotAllowed => "operation-not-allowed",
                     ExceptionEnum.Unauthorized => "unauthorized",
+                    ExceptionEnum.ReuieredBrandName => "brand-name-is-requiered",
+                    ExceptionEnum.FieldIsRequiered => "field-is-requiered",
                     _ => _exceptionEnum.ToString(),
                 } ;
             }

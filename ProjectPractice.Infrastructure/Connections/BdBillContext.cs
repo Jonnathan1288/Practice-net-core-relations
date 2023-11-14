@@ -12,11 +12,7 @@ public partial class BdBillContext : DbContext
     {
     }
 
-    public BdBillContext(DbContextOptions<BdBillContext> options)
-        : base(options)
-    {
-    }
-
+    public BdBillContext(DbContextOptions<BdBillContext> options) : base(options) {}
     public virtual DbSet<Bill> Bills { get; set; }
 
     public virtual DbSet<Brand> Brands { get; set; }

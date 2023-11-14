@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjectPractice.Domain.Exceptions.BadRequest
 {
-    public class InvalidFieldException: CustomException
+    public class InvalidFieldException: BadRequestException
     {
         public InvalidFieldException(ExceptionEnum message) : base(message) { }
     }

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ProjectPractice.Domain.Exceptions.BadRequest
 {
-    public class EntityAlreadyExists : CustomException
+    public class EntityAlreadyExists : BadRequestException
     {
         public EntityAlreadyExists(ExceptionEnum error) :base(error) { }
     }

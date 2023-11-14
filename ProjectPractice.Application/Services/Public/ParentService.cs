@@ -32,9 +32,9 @@ namespace ProjectPractice.Application.Services.Public
             return await _repository.FindByIdAsync(id);
         }
 
-        public async Task<Parent> SaveAsync(Parent p)
-        {
-            return await _repository.SaveAsync(p);
-        }
+        public async Task<Parent> SaveAsync(Parent p) => await _repository.SaveAsync(p);
+        
+
+        public async Task<List<Parent>> SaveAsyncTran(List<Parent> p) => await _repository.SaveAsyncTran(p);
     }
 }

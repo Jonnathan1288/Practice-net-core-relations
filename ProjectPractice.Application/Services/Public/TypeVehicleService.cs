@@ -17,6 +17,10 @@ namespace ProjectPractice.Application.Services.Public
         }
         public async Task<IEnumerable<VehiclesType>> FindAllAsync() => await _repository.FindAllAsync();
 
+        public VehiclesType FindByNameTypeVehicle(string name) => _repository.FindByNameTypeVehicle(name);
+
+        public VehiclesType Save(VehiclesType v) => _repository.Save(v);
+
         public async Task<VehiclesType> SaveAsync(VehiclesType v) => await _repository.SaveAsync(v);
     }
 }

@@ -10,5 +10,6 @@ namespace ProjectPractice.Domain.Interfaces.Repositories.Public
 {
     public interface ITypeVehicleRepository : INPRepository<VehiclesType, int>
     {
+        public VehiclesType FindByNameTypeVehicle(string name);
     }
 }
